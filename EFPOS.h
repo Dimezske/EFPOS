@@ -15,6 +15,7 @@ class Creditcard
       char csv[4];
       char pin[5];
       unsigned int repNo = 0;
+   
   // BURGER FUNCTIONS
       void printRecipt();
       void Declined();
